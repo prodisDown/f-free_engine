@@ -1,11 +1,11 @@
 #ifndef opengl_h
 #define opengl_h
 
-#include "opengl_data.h"
+#include "graphics_data.h"
 
 extern int opengl_init(void);
 
-extern int opengl_
+//extern int opengl_upload();
 
 extern int opengl_draw(void);
 
