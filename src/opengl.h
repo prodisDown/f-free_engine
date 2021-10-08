@@ -1,7 +1,7 @@
 #ifndef opengl_h
 #define opengl_h
 
-#include "graphics_data.h"
+#include "gltf.h"
 
 extern int opengl_init(void);
 

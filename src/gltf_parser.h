@@ -8,7 +8,7 @@
 #ifndef gltf_parser_h
 #define gltf_parser_h
 
-#include "graphics_data.h"
+#include "gltf.h"
 
 
 #endif /* gltf_parser_h */

@@ -7,7 +7,7 @@
 
 #include <unistd.h>
 #include "gltf_parser.h"
-#include "graphics_data.h"
+#include "gltf.h"
 
 #include <json-c/json.h>        // JSON parser
 

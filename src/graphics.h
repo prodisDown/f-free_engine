@@ -8,7 +8,7 @@
 #ifndef graphics_h
 #define graphics_h
 
-#include "graphics_data.h"      // The renderer data structures
+#include "gltf.h"      // The renderer data structures
 
 #include "opengl.h"             // TODO: Maybe change to more generic stuff
 

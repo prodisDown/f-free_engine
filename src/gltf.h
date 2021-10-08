@@ -2,8 +2,8 @@
  * "https://github.com/KhronosGroup/glTF/blob/master/specification/2.0/README.md"
  */
 
-#ifndef graphics_data_h
-#define graphics_data_h
+#ifndef gltf_h
+#define gltf_h
 
 #include <stddef.h>		// POSIX.1-2008, needed for standard NULL
 
@@ -201,4 +201,4 @@ struct sampler {
 };
 
 
-#endif /* graphics_data_h */
+#endif /* gltf_h */
